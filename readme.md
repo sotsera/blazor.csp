@@ -1,0 +1,2 @@
+Sotsera.Blazor.Csp
+==================
